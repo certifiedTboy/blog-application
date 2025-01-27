@@ -1,0 +1,4 @@
+.disabled {
+  background-color: #333 !important;
+  opacity: 0.5 !important;
+}

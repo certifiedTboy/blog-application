@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+input[type='password'] {
+  color: #000 !important;
+}
+
+input[type='email'] {
+  color: #000 !important;
+}
+
+input[type='text'] {
+  color: #000 !important;
+}
