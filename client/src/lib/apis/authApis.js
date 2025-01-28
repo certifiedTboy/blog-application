@@ -2,7 +2,7 @@ import { createApi, fetchBaseQuery } from "@reduxjs/toolkit/query/react";
 import { userApi } from "./userApis";
 import { clearCurrentUser } from "../redux/userSlice";
 
-const API_BASE_URL = "http://localhost:3001";
+const API_BASE_URL = "https://blog-application-hyc2.onrender.com";
 
 export const authApi = createApi({
   reducerPath: "authApi",
